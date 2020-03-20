@@ -51,7 +51,7 @@ BitShares Core Team constitutes a small, dedicated, and seasoned group of profes
 
  **Table 1. BitShares Core Team Positions, Availability and Rates (Weekly)**
 
-| Roles (described below)           | Rate (USD)| (BTS) Value @ $0.015 USD | Team Member             | Available Hours   |
+| Roles (described below)           | Rate (USD)| BTS Value @ $0.015 USD | Team Member             | Available Hours   |
 |:--------------------------------- | ---------:|:----------------------- |:----------------------- |:----------------- |
 | Worker Manager                    | $35/hour  | 2333 BTS                | Milos Preocanin         | 20 hours weekly   |
 | Documentation specialist          | $35/hour  | 2333 BTS                | ---------------         | 20 hours weekly   |
@@ -65,13 +65,13 @@ Total max. possible time on project: **~1250 hours** *(with safety buffer 15% an
 
 **Team Roles and Rates**
 
-| Roles (described below)         | Rate (USD) | 
-|:------------------------------- | :---------:|
-| Manager                         |  $35/hour  | 
-| Senior Core Developer           |  $75/hour  | 
-| Quality Assurance Auditor       |  $75/hour  | 
-| Documentation Specialist        |  $35/hour  | 
-| ZHS Translation specialist      |  $35/hour  |
+| Roles (described below)         | Rate (USD) | Job Position |
+|:------------------------------- | :---------:| ------------:|
+| Manager                         |  $35/hour  |  Closed |
+| Senior Core Developer           |  $75/hour  |  Open   |
+| Quality Assurance Auditor       |  $75/hour  |  Closed |
+| Documentation Specialist        |  $35/hour  |  Closed |
+| ZHS Translation specialist      |  $35/hour  |  Closed |
 
 
 **Hardcap/premium definition:**
